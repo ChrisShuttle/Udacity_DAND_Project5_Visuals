@@ -7,6 +7,21 @@
 The data set includes information about approximately 180 000 individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The data comprises all data points for February 2019. Duration of the trips, start time and location information of the trip and user information of the riders are included in the data set. The data was clean and some data points of riders age, which were impossible were removed. The data contains many outliers, which were incorporated into the analysis.
 
 
+## Files
+
+Exploratory analysis:
+exploration_ford_bike_sf.ipynb
+exploration_ford_bike_sf.html
+
+Final Slide Shows:
+slide_deck_ford_bike_sf.ipynb
+slide_deck_ford_bike_sf.slides.html
+
+Cleaned data set:
+df_bike_clean.csv
+
+
+
 ## Full Analysis:
 
 Univariate Analysis:
